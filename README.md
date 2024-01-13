@@ -2,15 +2,9 @@
 
 A new Flutter project.
 
-## Getting Started
+## Images
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![20240114_020603](https://github.com/rakhmatovsanjar/iphone--calculator/assets/137810130/8d2731c9-c9f2-4254-be22-2d49d5845a31)
+![20240114_020708](https://github.com/rakhmatovsanjar/iphone--calculator/assets/137810130/4588682b-3e1a-4686-a41e-ec349d17702e)
+![20240114_020800](https://github.com/rakhmatovsanjar/iphone--calculator/assets/137810130/ffaa6251-501a-4a10-9c37-4d9cd1f71684)
